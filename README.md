@@ -161,6 +161,9 @@ BTND ─► debounce ─► edge_det ─┤                       │ geo_alu �
                                                                                       └─────────┘
 ```
 
+
+<img width="1897" height="760" alt="sch_geo_calc" src="https://github.com/user-attachments/assets/f741b1bd-5c3f-4bf1-88fe-9a2f9fbd4ec6" />
+
 All modules use `clk` (100 MHz) and the synchronous, active-high `rst`.
 
 ### Modules in `geo_calc.v`
