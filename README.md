@@ -8,7 +8,6 @@ A geometric-formula calculator for the Digilent Nexys A7, written in Verilog in 
 |---|---|
 | `geo_calc.v` | All 9 modules. `top` is the top module. |
 | `geo_calc.xdc` | Pin constraints for the Nexys A7 |
-| `tb_geo_calc.v` | Testbench (simulation source), optional |
 
 ## Top-level ports (`module top`)
 
